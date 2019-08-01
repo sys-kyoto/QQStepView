@@ -1,6 +1,6 @@
 # QQStepView
 
-/**
+
 	<!--自定义属性-->
 	<declare-styleable name="QQStepView">
 		<attr name="outerColor" format="color"/>
@@ -28,4 +28,3 @@
        });
        //启动动画
        valueAnimator.start();
-*/
